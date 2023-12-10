@@ -24,3 +24,5 @@ Gencho Genchev - Artist
 [Traitor's Jdugement secret reportage](https://github.com/ShadowEntertainment/TJ-Secret-Reportage "Secret 001")
 
 ![Image](web_img1.png)
+
+# Shadow EntertainmentⒸ, 2023, GitHubⒸ 

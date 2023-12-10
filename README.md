@@ -26,4 +26,4 @@ Gencho Genchev - Artist
 ![Image](web_img1.png)
 
 #### Shadow EntertainmentⒸ, 2023, GitHubⒸ
-### All images are property of Shadow Entertainment. Do not copy!
+#### All images are property of Shadow Entertainment. Do not copy!

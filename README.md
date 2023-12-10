@@ -34,9 +34,11 @@ Chapter 2 - 7,99
 
 The final ending - 10,00
 
+
 | Price | Base | CH1  | CH1/2 | CH2  | End 
 | :---: | :--: | :-:  | :---: | :---:| :---: 
 |   >   | 4,99 | Free | 2,99  | 7,99 | 10,00 
+
 
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")

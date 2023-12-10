@@ -42,9 +42,12 @@ Chapter 2 - 7,99
 The final ending - 10,00
 
 
+
 | Price | Base | CH1  | CH1/2 | CH2  | End 
 | :---: | :--: | :-:  | :---: | :---:| :---: 
 |   >   | 4,99 | Free | 2,99  | 7,99 | 10,00 
+
+
 
 __the game will be released in Early Access. Why?__
 We want to make the best we can for this game, so when we release it in the next 1/2 years we will keep __adding content!__

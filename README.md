@@ -18,5 +18,7 @@ Gencho Genchev - Artist
 
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")
+[Traitor's Jdugement Intro](https://www.youtube.com/watch?v=gXxZ85Tdiao "Intro")
+[Traitor's Jdugement secret reportage]([https://www.youtube.com/watch?v=gXxZ85Tdiao "Intro"](https://github.com/ShadowEntertainment/TJ-Secret-Reportage)https://github.com/ShadowEntertainment/TJ-Secret-Reportage)
 
 ![Image](web_img1.png)

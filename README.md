@@ -21,6 +21,6 @@ Gencho Genchev - Artist
 
 [Traitor's Jdugement Intro](https://www.youtube.com/watch?v=gXxZ85Tdiao "Intro")
 
-[Traitor's Jdugement secret reportage]("https://github.com/ShadowEntertainment/TJ-Secret-Reportage" "Secret 001")
+[Traitor's Jdugement secret reportage](https://github.com/ShadowEntertainment/TJ-Secret-Reportage "Secret 001")
 
 ![Image](web_img1.png)

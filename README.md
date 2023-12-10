@@ -18,3 +18,5 @@ Gencho Genchev - Artist
 
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")
+
+![Image](web_img1.png)

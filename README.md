@@ -65,6 +65,8 @@ Early Stages of Developement. There are still no avaliable images for the game )
 
 [Traitor's Jdugement secret reportage](https://github.com/ShadowEntertainment/TJ-Secret-Reportage "Secret 001")
 
+[Follow Gencho Genchev](https://www.instagram.com/g.genchev_art/?hl=bg "Follow him (;")
+
 ![Image](web_img1.png)
 
 #### Shadow EntertainmentⒸ, 2023, GitHubⒸ

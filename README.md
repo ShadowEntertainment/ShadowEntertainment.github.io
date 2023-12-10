@@ -16,6 +16,28 @@ Gencho Genchev - Artist
 >> Shooter - Super realistic games with very good shadows and lightning
 >>> Photorealism - Shockingly realistic games designed for VR.
 
+### Inspiration & Info
+Traitor's Judgement is a VHS style physic horror game. Inspired by:
+[Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/) "Poppy Playtime")
+[Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/ "Choo-Choo Charles")
+The game will release on Steam, Epic Games, GameJolt, Itch io in 1/2 year(s). 
+
+*Overall game prices:*
+
+Base game - 4,99
+
+Chapter 1 - Free DLC
+
+Chapter 1/ Part 2 - 2,99
+
+Chapter 2 - 7,99
+
+The final ending - 10,00
+
+| Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11 | #12 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269 | 254 |
+
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")
 

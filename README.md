@@ -11,6 +11,13 @@ Bozhidar Genchev - Developer, Additional Story, UI creator, Artist, Lightning Ar
 Kaloian Anglelov - Additional Story, Alpha Logos, Additional Game Design  
 Gencho Genchev - Artist
 
+### Who is Bozhidar Genchev - the dev?
+So firstly I'm the creator of this website...
+I made the Shadow Group and united my friends to work on a project together!
+Also, I use UE5 to make our games. So I'm a person that always had big dreams icluding my fav thing - computers!
+
+Lastly, Shadow Group are located in Sofia (1000), Bulgaria.  
+
 ### Graphics
 > VHS - Vintage styled horror games with old VHS player graphics
 >> Shooter - Super realistic games with very good shadows and lightning

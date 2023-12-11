@@ -75,4 +75,4 @@ Early Stages of Developement. There are still no avaliable images for the game )
 #### Shadow EntertainmentⒸ, 2023, GitHubⒸ
 #### All images are property of Shadow Entertainment. Do not copy!
 
-##### Support us: Please sub to the game dev's channel: https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA and like our videos (;
+##### Support us: Please sub to the game dev's channel: (https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA and like our videos) (;

@@ -64,7 +64,7 @@ Early Stages of Developement. There are still no avaliable images for the game )
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")
 
-[Traitor's Jdugement Intro](https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA "Intro")
+[Traitor's Jdugement Intro](https://www.youtube.com/watch?v=g9_0vlAfNgo "Intro")
 
 [Traitor's Jdugement secret reportage](https://github.com/ShadowEntertainment/TJ-Secret-Reportage "Secret 001")
 

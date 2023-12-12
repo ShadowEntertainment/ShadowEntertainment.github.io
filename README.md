@@ -59,7 +59,16 @@ In this horror game you play as Mike – a farmer. One day he was transfering he
     At around 2:00 PM he woke up and his whole home and farm was burning. He started to scream and tried to get out. He broke a window and jumped out of it. He was running and running. Everything around him was burning. 
 
 *The game is work in progress - many things will change, including the story!*
-Early Stages of Developement. There are still no avaliable images for the game ):
+Early Stages of Developement. There are still no avaliable screenshots for the game ):
+
+### System Requirements
+Minimum:
+
+OS: Windows 10, STORAGE: 2/3 KB 
+
+Recommended:
+
+OS: Windows 10, STORAGE: 4/5 KB
 
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")

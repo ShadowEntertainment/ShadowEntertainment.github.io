@@ -5,11 +5,9 @@
 
 *Welcome to programming*, **Delayed developing: 2024** - Vintage, Programming, 2D, Pixel
 
-**These are all projects at the moment.**
-
 ### Group
-Denislav Nikolov - Story, Original story, QS, Tester  
-Bozhidar Genchev - Developer, Additional Story, UI creator, Artist, Lightning Artist  
+Denislav Nikolov - Story, Additional Game Design, QS, Tester  
+Bozhidar Genchev - Developer, Story, UI creator, Game Design
 Kaloian Anglelov - Additional Story, Alpha Logos, Additional Game Design  
 Gencho Genchev - Artist
 

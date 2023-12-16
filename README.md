@@ -65,7 +65,7 @@ Early Stages of Developement. The images bellow are very early.
 
 ![Image](ImgTJ1.png)
 
-![Image](.png)
+![Image](ImgTJ2.png)
 
 ### System Requirements
 Minimum:

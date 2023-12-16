@@ -1,9 +1,10 @@
 ## Shadow Entertainment Games
 
 ### Projects:
-*Traitor's Judgement* - Horror, Survival, Action, VHS
+*Traitor's Judgement*(**Delay: 3 Weeks after planned release date**) - Horror, Survival, Action, VHS
+*Welcome to programming*(**Delayed developing: 2024**) - Vintage, Programming, 2D, Pixel
 
-**These are all projects at the moment. ):**
+**These are all projects at the moment.**
 
 ### Group
 Denislav Nikolov - Story, Original story, QS, Tester  
@@ -17,9 +18,10 @@ I made the Shadow Group and united my friends to work on a project together!
 Also, I use UE5 to make our games. So I'm a person that always had big dreams icluding my fav thing - computers! 
 
 ### Graphics
-> VHS - Vintage styled horror games with old VHS player graphics
->> Shooter - Super realistic games with very good shadows and lightning
+> VHS - Vintage styled horror games with old VHS player graphics.
+>> Shooter - Super realistic games with very good shadows and lightning.
 >>> Photorealism - Shockingly realistic games designed for VR.
+>>>> 2D - Basic 2D games.
 
 ### Inspiration & Info
 Traitor's Judgement is a VHS style physic horror game. Inspired by:

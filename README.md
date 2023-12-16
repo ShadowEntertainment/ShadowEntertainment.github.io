@@ -85,6 +85,8 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
 [Follow Gencho Genchev](https://www.instagram.com/g.genchev_art/?hl=bg "Follow him (;")
 
+**We know that this site is very long. If you have a lower PC check this page:**
+
 ![Image](web_img1.png)
 
 #### Shadow EntertainmentⒸ, 2023, GitHubⒸ

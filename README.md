@@ -61,7 +61,7 @@ In this horror game you play as Mike – a farmer. One day he was transfering he
 
 *The game is work in progress - many things will change, including the story!*
 
-Early Stages of Developement. The images bellow are very early.
+Early Stages of Developement.**this is not the final output of the game!**
 
 ![Image](ImgTJ1.png)
 

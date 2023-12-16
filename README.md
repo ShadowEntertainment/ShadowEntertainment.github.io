@@ -65,11 +65,11 @@ Early Stages of Developement. There are still no avaliable screenshots for the g
 ### System Requirements
 Minimum:
 
-OS: Windows 10, STORAGE: 2/3 KB 
+OS: Windows 10, STORAGE: 2/3 KB, RES: Full HD
 
 Recommended:
 
-OS: Windows 10, STORAGE: 4/5 KB
+OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
 ### Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")

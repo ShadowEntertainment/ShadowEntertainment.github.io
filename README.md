@@ -85,7 +85,7 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
 [Follow Gencho Genchev](https://www.instagram.com/g.genchev_art/?hl=bg "Follow him (;")
 
-**We know that this site is very long. If you have a lower PC check this page:**
+**We know that this site is very long. If you have a lower PC check this repository: (https://github.com/ShadowEntertainment/shadowentertainment-lowpc.github.io/tree/main)
 
 ![Image](web_img1.png)
 

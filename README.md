@@ -1,8 +1,8 @@
 ## Shadow Entertainment Games
 
 ### Projects:
-*Traitor's Judgement*(**Delay: 3 Weeks after planned release date**) - Horror, Survival, Action, VHS
-*Welcome to programming*(**Delayed developing: 2024**) - Vintage, Programming, 2D, Pixel
+*Traitor's Judgement*, **Delay: 3 Weeks after planned release date** - Horror, Survival, Action, VHS
+*Welcome to programming*, **Delayed developing: 2024** - Vintage, Programming, 2D, Pixel
 
 **These are all projects at the moment.**
 

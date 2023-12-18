@@ -24,7 +24,7 @@ Also, I use UE5 to make our games. So I'm a person that always had big dreams ic
 
 ### Inspiration & Info
 Traitor's Judgement is a VHS style physic horror game. Inspired by:
-[Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/ "Poppy Playtime")
+[Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/ "Poppy Playtime"
 
 [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/ "Choo-Choo Charles")
 

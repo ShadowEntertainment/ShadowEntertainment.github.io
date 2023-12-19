@@ -87,7 +87,7 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
 **We know that this site is very long. If you have a lower PC check out this repository: https://github.com/ShadowEntertainment/shadowentertainment-lowpc.github.io/tree/main**
 
-![Image](Web_img1.png)
+![Image](web_img1.png)
 
 #### Shadow EntertainmentⒸ, 2023, GitHubⒸ
 #### All images are property of Shadow Entertainment. Do not copy!

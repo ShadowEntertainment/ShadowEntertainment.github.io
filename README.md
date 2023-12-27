@@ -22,11 +22,9 @@ Also, I use UE5 to make our games. So I'm a person that always had big dreams ic
 
 # Inspiration & Info
 Traitor's Judgement is a VHS style physic horror game. Inspired by:
-[Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/ "Poppy Playtime"
+[Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/ "Poppy Playtime") and [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/ "Choo-Choo Charles")
 
-[Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/ "Choo-Choo Charles")
-
-The game will release on Steam, Epic Games, GameJolt, Itch io in 1/2 year(s). 
+The game will release on Steam, Epic Games, GameJolt, Itch io in 1 year. 
 
 *Overall game prices:*
 
@@ -55,8 +53,8 @@ With this philosophy every bug that occurs will be able to be repaired. Also the
 
 # Story Sneak Peek
 
-    In this horror game you play as Mike – a farmer. One day he was transfering heavy bags of wheat. While he was walking trough the field he saw a homeless man limping around. When the man saw Mike he begged him for         food. He replied he will give him food only if he carried his bags with wheat. The man said he will try his best, and on his first steps he dropped the bag and it fell on him. The man haven't eaten in days, so the         bag's weight was more than his and he passed away. Mike just continued with his job and got to sleep.
-    At around 2:00 PM he woke up and his whole home and farm was burning. He started to scream and tried to get out. He broke a window and jumped out of it. He was running and running. Everything around him was           burning. 
+    In this horror game you play as Mike – a farmer. One day he was transfering heavy bags of wheat. While he was walking trough the field he saw a homeless man limping around. When the man saw Mike he begged him for food. He replied he will give him food only if he carried his bags with wheat. The man said he will try his best, and on his first steps he dropped the bag and it fell on him. The man haven't eaten in days, so the bag's weight was more than his and he passed away. Mike just continued with his job and got to sleep.
+    At around 2:00 PM he woke up and his whole home and farm was burning. He started to scream and tried to get out. He broke a window and jumped out of it. He was running and running. Everything around him was burning. 
 
 *The game is work in progress - many things will change, including the story!*
 

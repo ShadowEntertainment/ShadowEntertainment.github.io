@@ -1,9 +1,7 @@
-## Shadow Entertainment 
+# Shadow Entertainment 
 
 # Projects:
 *Traitor's Judgement*, **Delay: 3 Weeks after planned release date** - Horror, Survival, Action, VHS
-
-*Welcome to programming*, **Delayed developing: 2024** - Vintage, Programming, 2D, Pixel
 
 # Group
 Denislav Nikolov - Story, Additional Game Design, QS, Tester  
@@ -11,18 +9,18 @@ Bozhidar Genchev - Developer, Story, UI creator, Game Design
 Kaloian Anglelov - Additional Story, Alpha Logos, Additional Game Design  
 Gencho Genchev - Artist
 
-### Who is Bozhidar Genchev - the dev?
+# Who is Bozhidar Genchev - the dev?
 So firstly I'm the creator of this website...
 I made the Shadow Group and united my friends to work on a project together!
 Also, I use UE5 to make our games. So I'm a person that always had big dreams icluding my fav thing - computers! 
 
-### Graphics
+# Graphics
 > VHS - Vintage styled horror games with old VHS player graphics.
 >> Shooter - Super realistic games with very good shadows and lightning.
 >>> Photorealism - Shockingly realistic games designed for VR.
 >>>> 2D - Basic 2D games.
 
-### Inspiration & Info
+# Inspiration & Info
 Traitor's Judgement is a VHS style physic horror game. Inspired by:
 [Poppy Playtime](https://store.steampowered.com/app/1721470/Poppy_Playtime/ "Poppy Playtime"
 
@@ -55,7 +53,7 @@ We want to make the best we can for this game, so when we release it in the next
 
 With this philosophy every bug that occurs will be able to be repaired. Also there will be a lot of Minor and Major updates.
 
-### Story Sneak Peek
+# Story Sneak Peek
 In this horror game you play as Mike – a farmer. One day he was transfering heavy bags of wheat. While he was walking trough the field he saw a homeless man limping around. When the man saw Mike he begged him for food. He replied he will give him food only if he carried his bags with wheat. The man said he will try his best, and on his first steps he dropped the bag and it fell on him. The man haven't eaten in days, so the bag's weight was more than his and he passed away. Mike just continued with his job and got to sleep.
     At around 2:00 PM he woke up and his whole home and farm was burning. He started to scream and tried to get out. He broke a window and jumped out of it. He was running and running. Everything around him was burning. 
 
@@ -71,7 +69,7 @@ Early Stages of Developement. **Images represent a game still in developement**
 
 ![Image](webimgsm.png)
 
-### System Requirements
+# System Requirements
 Minimum:
 
 OS: Windows 10, STORAGE: 2/3 KB, RES: Full HD
@@ -80,7 +78,7 @@ Recommended:
 
 OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
-### Links
+# Links
 [Discord Group](https://discord.com/channels/1175447160918130778/1175447160918130781 "Discord")
 
 [Traitor's Jdugement Intro](https://www.youtube.com/watch?v=g9_0vlAfNgo "Intro")
@@ -93,7 +91,8 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 
 ![Image](web_img1.png)
 
-#### Shadow EntertainmentⒸ, 2023, GitHubⒸ
-#### All images are property of Shadow Entertainment. Do not copy!
+### Shadow EntertainmentⒸ, 2023, GitHubⒸ
+### All images are property of Shadow Entertainment. Do not copy!
 
-##### Support us: Please sub to the game dev's channel: (https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA) and like our videos (;
+#### Please sub to the game dev's channel: (https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA) and like our videos (;
+#### Also check BozGen's Instagram: (https://www.instagram.com/bozgentheeagle/)

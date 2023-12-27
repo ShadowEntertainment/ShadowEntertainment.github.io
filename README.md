@@ -94,5 +94,5 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
 ### Shadow EntertainmentⒸ, 2023, GitHubⒸ
 ### All images are property of Shadow Entertainment. Do not copy!
 
-#### Please sub to the game dev's channel: (https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA) and like our videos (;
-#### Also check BozGen's Instagram: (https://www.instagram.com/bozgentheeagle/)
+#### Please sub to the game dev's channel: https://www.youtube.com/channel/UC1xg4YTbwNh3fnyHKwluUwA and like our videos (;
+#### Also check BozGen's Instagram: https://www.instagram.com/bozgentheeagle/

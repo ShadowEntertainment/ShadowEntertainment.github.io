@@ -1,4 +1,5 @@
 # Shadow Entertainment 
+```diff
 
 # Projects:
 *Traitor's Judgement*, **Delay: 3 Weeks after planned release date** - Horror, Survival, Action, VHS
@@ -13,9 +14,6 @@ Gencho Genchev - Artist
 So firstly I'm the creator of this website...
 I made the Shadow Group and united my friends to work on a project together!
 Also, I use UE5 to make our games. So I'm a person that always had big dreams icluding my fav thing - computers! 
-
-```diff
-- Hi
 
 # Graphics
 > VHS - Vintage styled horror games with old VHS player graphics.

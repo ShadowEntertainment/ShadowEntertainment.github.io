@@ -9,7 +9,7 @@ Bozhidar Genchev - Developer, Story, UI creator, Game Design
 Kaloian Anglelov - Additional Story, Alpha Logos, Additional Game Design  
 Gencho Genchev - Artist
 
-# Who is Bozhidar Genchev - the dev?
+# @@Who is Bozhidar Genchev - the dev?@@
 So firstly I'm the creator of this website...
 I made the Shadow Group and united my friends to work on a project together!
 Also, I use UE5 to make our games. So I'm a person that always had big dreams icluding my fav thing - computers! 

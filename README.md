@@ -60,6 +60,8 @@ With this philosophy every bug that occurs will be able to be repaired. Also the
 
 Early Stages of Developement. **Images represent a game still in developement**
 
+![Image](DevNews.png)
+
 ![Image](TJ1.png)
 
 ![Image](ImgTJ2.png)
@@ -68,7 +70,7 @@ Early Stages of Developement. **Images represent a game still in developement**
 
 ![Image](webimgsm.png)
 
-# System Requirements
+# System Requirements for Traitor's Judgement
 Minimum:
 
 OS: Windows 10, STORAGE: 2/3 KB, RES: Full HD

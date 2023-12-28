@@ -60,7 +60,7 @@ With this philosophy every bug that occurs will be able to be repaired. Also the
 
 Early Stages of Developement. **Images represent a game still in developement**
 
-![Image](DevNews.png)
+![Image](DevNews.jpg)
 
 ![Image](TJ1.png)
 

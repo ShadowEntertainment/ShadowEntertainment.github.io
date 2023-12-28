@@ -70,6 +70,22 @@ Early Stages of Developement. **Images represent a game still in developement**
 
 ![Image](webimgsm.png)
 
+##**Blood Violence!**
+You've been warned.
+
+
+
+
+
+
+
+
+
+
+
+
+![Image](WebIMGSm (2).png)
+
 # System Requirements for Traitor's Judgement
 Minimum:
 

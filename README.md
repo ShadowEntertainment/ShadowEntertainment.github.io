@@ -70,7 +70,7 @@ Early Stages of Developement. **Images represent a game still in developement**
 
 ![Image](webimgsm.png)
 
-##**Blood Violence!**
+## **Blood Violence!**
 You've been warned.
 
 

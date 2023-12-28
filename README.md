@@ -84,7 +84,7 @@ You've been warned.
 
 
 
-![Image](WebIMGSm (2).png)
+![Image](BloodyRoomBloodViolence.png)
 
 # System Requirements for Traitor's Judgement
 Minimum:

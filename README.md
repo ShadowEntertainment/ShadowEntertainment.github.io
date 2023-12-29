@@ -71,8 +71,6 @@ Early Stages of Developement. **Images represent a game still in developement**
 
 ![Image](webimg.png)
 
-![Image](webimgsm.png)
-
 ![Image](BloodyRoom.png)
 
 # System Requirements for Traitor's Judgement

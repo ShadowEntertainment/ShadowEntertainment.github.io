@@ -63,6 +63,12 @@ With this philosophy every bug that occurs will be able to be repaired. Also the
 
 Early Stages of Developement. **Images represent a game still in developement**
 
+# Traitor's Origins
+Traitor's Judgement wasn't planned in Unreal Engine at first, and it was started in a LOT. So we wanted the game released in Roblox, but we had hard time developing so we switched to Godot, but it just felt it is going to be an awful game, becuase Godot is mainly designed for 2D games and we wanted the game 3D. The dev didn't know anything about Godot, so he switched to Unity. All of this was because the dev's PC was to low to support Unreal, but one shiny, beautiful day (it was rainy and cold, but those are details) the dev's mind got an idea - to install Unreal on his empty disk - the Local Disk (D:)! So yeah... We changed everything to Unreal and we have this amazing artwork! Oh and also here is the release date:
+
+
+# July, 2024
+
 ![Image](DevNews.png)
 
 ![Image](TJ1.png)
@@ -92,7 +98,7 @@ OS: Windows 11, STORAGE: 2/3 KB, RES: 4K
   
 [Follow Gencho Genchev](https://www.instagram.com/g.genchev_art/?hl=bg "Follow him (;")
 
-**We know that this site is very long. If you have a lower PC check out this repository: https://github.com/ShadowEntertainment/shadowentertainment-lowpc.github.io/tree/main**
+**If you have a lower PC check out this repository: https://github.com/ShadowEntertainment/shadowentertainment-lowpc.github.io/tree/main**
 
 ![Image](web_img1.png)
 

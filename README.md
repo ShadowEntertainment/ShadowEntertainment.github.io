@@ -1,5 +1,8 @@
 ![Image](seg_header.png)
 
+## **Blood Violence Ahead!**
+You've been warned.
+
 # Projects:
 *Traitor's Judgement*, **Delay: 3 Weeks after planned release date** - Horror, Survival, Action, VHS
 
@@ -69,20 +72,6 @@ Early Stages of Developement. **Images represent a game still in developement**
 ![Image](webimg.png)
 
 ![Image](webimgsm.png)
-
-## **Blood Violence!**
-You've been warned.
-
-
-
-
-
-
-
-
-
-
-
 
 ![Image](BloodyRoom.png)
 
